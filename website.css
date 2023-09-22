@@ -12,7 +12,7 @@ body{
 
  .topnav{
 
-    background-color: #49A078;
+    background-color: #533af4;
     overflow: hidden;
 
  }
@@ -43,7 +43,7 @@ body{
 
  .topnav a.active{
 
-    background-color:#49A078;
+    background-color:#533af4;
     color: white;
 
  }
